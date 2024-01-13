@@ -1,5 +1,6 @@
 # Test-Case-Sample-Test-Link-
-
+I wrote 26 test cases in Test Link. They were also executed. Here I have the screenshot with all of them.
+<pre></pre>
 <img width="502" alt="A" src="https://github.com/IoanaVasarhelyi99/Test-Case-Sample-Test-Link-/assets/135469580/9e23dff6-3e39-4505-945b-c0ef45cc75cd">
 <pre></pre>
 <img width="497" alt="B" src="https://github.com/IoanaVasarhelyi99/Test-Case-Sample-Test-Link-/assets/135469580/f1019483-a96e-4bb1-80f5-1da81ecf9ea0">
